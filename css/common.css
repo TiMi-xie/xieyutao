@@ -1,0 +1,42 @@
+@charset "utf-8";
+body,ul,ol,h1,h2,h3,h4,h5,h6,p,input,select,textarea,dl,dd{margin: 0;padding: 0;}
+ul,ol{list-style: none;}
+select,textarea{background-color: transparent; border: none; outline: none;}
+textarea{resize: none;}
+img{border: none; vertical-align: top;}
+a{text-decoration: none;}
+.fl{float: left;} .fr{float: right;}
+.clearfix:after,.clearfix:before{content: "";display: table;}
+.clearfix:after{clear: both;}
+.clearfix{*zoom:1;}
+.jiacu{
+	font-weight: bold;
+}
+
+.after{
+	background-color: #FF4300;
+}
+
+.ziti{
+	font-size: 12px;
+}
+.hongse{
+	color: #F22E00;
+}
+.juse{
+	color: #FF4400;
+}
+.huise{
+	font-size: 12px;
+	color: #6C6C6C;
+}
+.heise{
+	
+	color: #3C3C3C;
+}
+.huangse{
+	color: #FAD22C;
+}
+.ztjz{
+	text-align: center;
+}
